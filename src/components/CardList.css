@@ -1,0 +1,10 @@
+#container {
+    display: flex;
+    flex-flow: row wrap;
+    width: 80%;
+    justify-content: center;
+}
+
+.card {
+    margin: 1rem;
+}

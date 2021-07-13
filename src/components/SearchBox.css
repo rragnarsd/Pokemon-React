@@ -1,0 +1,22 @@
+#search-box {
+    margin: 1rem 0;
+}
+
+#search-box button {
+    padding: 0.2rem 1rem;
+    background-color: #FFDE00;
+    border: 1px solid #333;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#search-box button:hover {
+    background-color: #FFc900;
+}
+
+#search-input {
+    width: 15rem;
+    padding: 0.2rem;
+    margin-right: 0.4rem;
+    border: 1px solid #333;
+}
